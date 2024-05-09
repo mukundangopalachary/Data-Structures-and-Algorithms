@@ -8,9 +8,9 @@ This folder contains implementations of various data structures. Each data struc
 
 ### List of Data Structures
 
-1. [Binary Search Tree](Data_Structures/)
-2. [Tree](Data_Structures/tree.py)
-3. [Linked List](Data_Structures/)
+1. Binary Search Tree
+2. Tree
+3. Linked List
 
 **NOTICE:** Will be updated!
 
