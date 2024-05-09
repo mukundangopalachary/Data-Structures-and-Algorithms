@@ -29,12 +29,6 @@ Explore each algorithm's folder to find implementations in different programming
 
 Contributions are welcome! If you have any implementations of data structures or algorithms that you'd like to add, feel free to submit a pull request.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
-Feel free to adjust and customize it to fit your specific needs!
-
 ## Contacts
 
 Email: mukundangopalachary@gmail.com
