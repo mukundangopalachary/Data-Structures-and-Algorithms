@@ -11,7 +11,8 @@ This folder contains implementations of various data structures. Each data struc
 1. Binary Search Tree
 2. Tree
 3. Linked List
-
+4. Graphs
+   
 **NOTICE:** Will be updated!
 
 Feel free to explore each data structure's folder to find implementations in your preferred programming language.
