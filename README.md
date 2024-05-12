@@ -13,7 +13,7 @@ This folder contains implementations of various data structures. Each data struc
 3. Linked List
 4. Graphs
    
-**NOTICE:** Will be updated!
+**NOTICE:** Didn't cover easy data structures like Array, Stack, Queue, etc.
 
 Feel free to explore each data structure's folder to find implementations in your preferred programming language.
 
