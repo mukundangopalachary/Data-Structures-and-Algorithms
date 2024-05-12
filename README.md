@@ -19,12 +19,11 @@ Feel free to explore each data structure's folder to find implementations in Pyt
 
 ## Algorithms
 
-This folder contains implementations of various algorithms. Each algorithm is organized into its own subfolder and may include multiple implementations in different programming languages.
+This folder contains implementations of various algorithms in Python.
 
 ### List of Algorithms
-**NOTICE:** Will be updated!
 
-Explore each algorithm's folder to find implementations in different programming languages along with explanations and examples.
+**NOTICE:** Will be updated!
 
 ## Contributing
 
