@@ -15,7 +15,7 @@ This folder contains implementations of various data structures. Each data struc
    
 **NOTICE:** Didn't cover easy data structures like Array, Stack, Queue, etc.
 
-Feel free to explore each data structure's folder to find implementations in your preferred programming language.
+Feel free to explore each data structure's folder to find implementations in Python.
 
 ## Algorithms
 
